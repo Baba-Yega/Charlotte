@@ -1,0 +1,296 @@
+Uri: https://files.brokercheck.finra.org/individual/individual_2594413.pdf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\individual\individual_2594413.pdf
+Content Type: application/pdf
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400&family=Jost:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v13/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\s\inter\v13\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mx9IgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7mxEIgVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myjJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/jost/v15/92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\s\jost\v15\92zPtBhPNqw79Ij1E865zBUv7myRJQVG.ttf
+Content Type: font/ttf
+
+Uri: https://randomuser.me/api/portraits/men/68.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\api\portraits\men\68.jpg
+Content Type: image/jpeg
+
+Uri: https://randomuser.me/api/portraits/men/79.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\api\portraits\men\79.jpg
+Content Type: image/jpeg
+
+Uri: https://randomuser.me/api/portraits/women/68.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\api\portraits\women\68.jpg
+Content Type: image/jpeg
+
+Uri: https://randomuser.me/api/portraits/women/79.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\api\portraits\women\79.jpg
+Content Type: image/jpeg
+
+Uri: https://reports.adviserinfo.sec.gov/reports/individual/individual_2354799.pdf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\reports\individual\individual_2354799.pdf
+Content Type: application/pdf
+
+Uri: https://www.colleenrosemccaffery.com/
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\index.htm
+Content Type: text/html
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\all.min.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/main.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\main.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/mmenu-light.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\mmenu-light.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/normalize.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\normalize.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/preloader.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\preloader.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/css/splide.min.css
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\css\splide.min.css
+Content Type: text/css
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/banner/banner-bg.png
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\banner\banner-bg.png
+Content Type: image/png
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/banner/Group21.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\banner\Group21.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/reviews/review-bg.png
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\reviews\review-bg.png
+Content Type: image/png
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/services/001-design-tools1.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\services\001-design-tools1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/services/003-branding1.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\services\003-branding1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/services/004-pie-chart1.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\services\004-pie-chart1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/services/Ellipse3.png
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\services\Ellipse3.png
+Content Type: image/png
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/services/Group34.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\services\Group34.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/services/icon.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\services\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/services/Trianglelineshape.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\services\Trianglelineshape.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home/speciality/005-layers1.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home\speciality\005-layers1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home3/svg/banner-span-shape.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home3\svg\banner-span-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/home3/svg/span-shape.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\home3\svg\span-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/image10.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\image10.jpg
+Content Type: image/jpeg
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/image11.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\image11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/image13.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\image13.jpg
+Content Type: image/jpeg
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/image4.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\image4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/image6.jpg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\image6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/services/bullet.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\services\bullet.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/site-logo/logo-black3.png
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\site-logo\logo-black3.png
+Content Type: image/png
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Ellipse13.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Ellipse13.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Ellipse14.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Ellipse14.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/footer-light-path.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\footer-light-path.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Group21.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Group21.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Group34.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Group34.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Oval.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Oval.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Path.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Path.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/quote.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\quote.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Rectangle.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Rectangle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Rectangle8.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Rectangle8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/img/svg/Trianglelineshape.svg
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\img\svg\Trianglelineshape.svg
+Content Type: image/svg+xml
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/all.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\all.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/jquery.countTo.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\jquery.countTo.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/jquery.yu2fvl.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\jquery.yu2fvl.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/main.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/mmenu-light.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\mmenu-light.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/splide.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\splide.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://www.colleenrosemccaffery.com/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://www.colleenrosemccaffery.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.colleenrosemccaffery.com/index.html
+File Name: C:\Downloaded Web Sites\www.colleenrosemccaffery.com\index.html
+Content Type: text/html
+
