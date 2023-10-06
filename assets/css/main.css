@@ -6832,6 +6832,10 @@ a:hover {
 
 }
 
+#floating-widget{
+    z-index: 9999;
+}
+
 #floating-widget i{
     font-size: 32px;
 }
