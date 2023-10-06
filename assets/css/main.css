@@ -6831,3 +6831,7 @@ a:hover {
     }
 
 }
+
+#floating-widget i{
+    font-size: 32px;
+}
